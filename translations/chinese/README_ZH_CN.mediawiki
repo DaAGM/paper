@@ -11,7 +11,7 @@
 </pre>
 
 =社交智能合约。=
-来自 [http://democracy.earth Democracy Earth Foundation] 的首次权益发行。
+来自 [http://democracy.earth Democracy Earth Foundation] 的首次配股。
 
 ==i. 摘要.==
 
@@ -27,21 +27,21 @@
 
 * [[#Execution|执行]]：针对实用主义者。指定如何执行这些想法以产生影响。
 
-我们不打算让这段文字亘古不变。它是根据开源许可发布的，我们欢迎任何人贡献力量，因为我们的目标是使这份文件成为一个关于行星治理的活跃路线图。信任他人的能力是塑造历史轨迹的决定性力量。我们的使命在全球急切回响，涵盖全人类：让我们共同的家园成为和平共存的地方的需要。[Democracy Earth Foundation](http://democracy.earth)已对投票系统、网络政治和区块链网络进行了广泛研究；我们站在关于互联网作为行星管辖区的公共对话前沿。
+我们不打算让这段文字亘古不变。它是根据开源许可发布的，我们欢迎任何人贡献力量，因为我们的目标是使这份文件成为一个关于行星治理的活跃路线图。信任他人的能力是塑造历史轨迹的决定性力量。我们的使命在全球急切回响，涵盖全人类：让我们共同的家园成为和平共存的地方的需要。[http://democracy.earth Democracy Earth Foundation]已对投票系统、网络政治和区块链网络进行了广泛研究；我们站在关于互联网作为行星管辖区的公共对话前沿。
 
-遵循[Satoshi Nakamoto的示例](https://twitter.com/lsukernik/status/892101885771034628)，在以书面形式分享我们的想法之前，我们已经着手先编写代码，以便正确理解可以做什么。为此，自2015年10月以来已经编写了超过[30,000行代码](https://github.com/DemocracyEarth/sovereign)，这反过来推动了我们的研究、用例和在此提出的想法。这是我们的提案。
+遵循[https://twitter.com/lsukernik/status/892101885771034628 Satoshi Nakamoto的示例]，在以书面形式分享我们的想法之前，我们已经着手先编写代码，以便正确理解可以做什么。为此，自2015年10月以来已经编写了超过[https://github.com/DemocracyEarth/sovereign 30,000行代码]，这反过来推动了我们的研究、用例和在此提出的想法。这是我们的提案。
 
 <div id="Background"></div>
 
 ==iii. 背景.==
 
-我们开创了数字民主，编写了一些最著名的开源民主软件，包括GitHub社区评价最高的一些作品，其中包括我们在2012年创立的简单直接民主项目[DemocracyOS](https://www.youtube.com/watch?v=qNCgfd7dNb0)的原始设计。我们创立了美洲第一个数字政党——[Partido de la Red](http://partidodelared.org)（同行党），并于2013年在[布宜诺斯艾利斯](http://www.wired.co.uk/article/e-voting)市进行了首次选举。2014年，我们在[TED](https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era) Talks上分享了我们的经验，吸引了超过120万观众。在2015年和2016年，硅谷的[Y Combinator](http://ycombinator.com)和[Fast Forward](http://ffwd.org)资助了我们的努力，启动了[Democracy Earth Foundation](http://democracy.earth)，这是一个致力于无国界治理使命的非营利组织。
+我们开创了数字民主，编写了一些最著名的开源民主软件，包括GitHub社区评价最高的一些作品，其中包括我们在2012年创立的简单直接民主项目[https://www.youtube.com/watch?v=qNCgfd7dNb0 DemocracyOS]的原始设计。我们创立了美洲第一个数字政党——[http://partidodelared.org Partido de la Red]（同行党），并于2013年在[http://www.wired.co.uk/article/e-voting 布宜诺斯艾利斯]市进行了首次选举。2014年，我们在[ TED https://www.ted.com/talks/pia_mancini_how_to_upgrade_democracy_for_the_internet_era ] Talks上分享了我们的经验，吸引了超过120万观众。在2015年和2016年，硅谷的[http://ycombinator.com Y Combinator]和[Fast Forward http://ffwd.org]资助了我们的努力，启动了[Democracy Earth Foundation http://democracy.earth ]，这是一个致力于无国界治理使命的非营利组织。
 
-我们结合了民主的政治和技术挑战的经验，开始思考并设计了如何利用智能合约构建政党的概念，或者说是一种任何人都可以以低成本实施的轻量级治理形式。我们开始开发 [http://sovereign.software Sovereign]，一个“区块链滑动条民主”，它允许直接就议题进行投票，同时还可以在安全网络上将投票权委托给同行，而无需中央机构。通过在区块链上标记代币运作，所有投票都变得抗审查，并且可以授予每个选民立即审计权，而无需提供对服务器或私人基础设施的访问，从而使系统对所有人开放和透明。我们的工作遵循开源软件开发实践，并与旨在在分散环境中确保身份安全的关键项目合作，包括来自 [https://blockstack.org/blockstack_usenix16.pdf Blockstack]、[http://civic.com Civic] 和 [https://whitepaper.uport.me/uPort_whitepaper_DRAFT20170221.pdf Consensys] 等机构的努力。
+我们结合了民主的政治和技术挑战的经验，开始思考并设计了如何利用智能合约构建政党的概念，或者说是一种任何人都可以以低成本实施的轻量级治理形式。我们开始开发 [http://sovereign.software Sovereign]，一个“区块链滑动条民主”，它允许直接就议题进行投票，同时还可以在安全网络上将投票权委托给同行，而无需中央机构。通过在区块链上标记代币运作，所有投票都变得抗审查，并且可以授予每个选民立即审计权，而无需提供对服务器或私人基础设施的访问，从而使系统对所有人开放和透明。我们的工作遵循开源软件开发实践，并与旨在在分散环境中确保身份安全的关键项目合作，包括来自 [https://blockstack.org/blockstack_usenix16.pdf Blockstack]、[http://civic.com Civic] 和 [Consensys https://whitepaper.uport.me/uPort_whitepaper_DRAFT20170221.pdf ] 等机构的努力。
 
 [[File:/images/sovereign.png|Sovereign.]] 
 
-[Sovereign's codebase](https://github.com/DemocracyEarth/sovereign) 提供了一个适应性强的移动和桌面应用程序，面向选民和组织，标准化了基于区块链的不可腐败的决策制度。我们的目标是继续铺平实施之路，实现[密码学开放审计投票](https://www.usenix.org/legacy/event/sec08/tech/full_papers/adida/adida.pdf)，并将我们的软件与能够保证用户主权权利的区块链集成在一起。
+[https://github.com/DemocracyEarth/sovereign Sovereign's codebase] 提供了一个适应性强的移动和桌面应用程序，面向选民和组织，标准化了基于区块链的不可腐败的决策制度。我们的目标是继续铺平实施之路，实现[ https://www.usenix.org/legacy/event/sec08/tech/full_papers/adida/adida.pdf 密码学开放审计投票]，并将我们的软件与能够保证用户主权权利的区块链集成在一起。
 
 <div id="宣言"></div>
 
@@ -918,13 +918,9 @@ Democracy Earth Foundation 是由各种合作者、捐赠者和支持者共同�
 
 Santiago Siri, Virgile Deville, Paula Berman, Eduardo Medina, Herb Stephens, Sandra Miller, Dwight Wilson, Mair Williams, Louis Margot-Duclot, Felipe Alvarez, Cyprien Grau, Peter Schurman, Andrew James Benson, Gonzalo Stupenengo, Lucas Isasmendi, James Ray, Leo Arias, Zach Latta, Shep Moore-Berg, @nelruk, Matias Martinez, @arcalinea, Esteve Fernandez, Drew Cain, Daniel Kao, Curtis Colwell, and Alejandro Machado. 
 
-Santiago Siri、Virgile Deville、Paula Berman、Eduardo Medina、Herb Stephens、Sandra Miller、Dwight Wilson、Mair Williams、Louis Margot-Duclot、Felipe Alvarez、Cyprien Grau、Peter Schurman、Andrew James Benson、Gonzalo Stupenengo、Lucas Isasmendi、James Ray、Leo Arias、Zach Latta、Shep Moore-Berg、@nelruk、Matias Martinez、@arcalinea、Esteve Fernandez、Drew Cain、Daniel Kao、Curtis Colwell 和 Alejandro Machado。
-
 ===4.2 顾问委员会。===
 
 Pia Mancini, Alexis Ohanian, Matias Mosse, Ariel Kogan, Ernesto Dal Bó, Kate Courteau, Giorgio Jackson, Julio Coco, Dan Swislow. 
-
-皮娅·曼西尼，亚历克西斯·奥哈尼安，马蒂亚斯·莫塞，阿里尔·科根，埃内斯托·达尔博，凯特·库托，乔治奥·杰克逊，胡里奥·科科，丹·斯威斯洛。
 
 ===4.3 个人捐赠者。===
 
